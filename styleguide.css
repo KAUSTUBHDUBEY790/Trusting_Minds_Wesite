@@ -1,0 +1,98 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 35px;
+  --font-size-m: 30px;
+  --font-size-s: 20px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 50px;
+ 
+  --font-family-holtwood_one_sc: "Holtwood One SC", Helvetica;
+  --font-family-ibm_plex_mono: "IBM Plex Mono", Helvetica;
+  --font-family-impact-regular: "Impact-Regular", Helvetica;
+  --font-family-josefin_sans: "Josefin Sans", Helvetica;
+  --font-family-jsmath-cmbx10-regular: "jsMath-cmbx10-Regular", Helvetica;
+  --font-family-karla: "Karla", Helvetica;
+  --font-family-marko_one: "Marko One", Helvetica;
+}
+.josefinsans-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.markoone-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-marko_one);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ibmplexmono-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ibmplexmono-normal-black-50px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.karla-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-karla);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.josefinsans-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-josefin_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ibmplexmono-bold-black-50px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexmono-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.markoone-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-marko_one);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.markoone-normal-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-marko_one);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
